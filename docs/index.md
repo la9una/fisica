@@ -9,6 +9,14 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
+!!! note
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus
+
+$$
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+$$
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
