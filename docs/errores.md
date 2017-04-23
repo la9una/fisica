@@ -195,10 +195,10 @@ Para comprenderlo mejor, lo ilustraremos con un ejemplo.
 
 	Calculamos el error absoluto máximo: 
 	
-	$\varepsilon_{max} = \overline{x} - x_{max}$
+	$\varepsilon = \overline{x} - x_{max}$
 
 	
-	$\varepsilon_{max} = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
+	$\varepsilon = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
 
 
 	Y el error absoluto mínimo: 
@@ -212,7 +212,7 @@ Para comprenderlo mejor, lo ilustraremos con un ejemplo.
 
 	$\varepsilon = \pm 0,06\:cm$
 
-	Finalmente, $\overline{x} = 16,50\:cm \pm 0,06\:cm$, que corrobora que **el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos**
+	Finalmente, $\overline{x} = 16,50\:cm \pm 0,06\:cm$, lo que corrobora que **el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos**
 
 ###Error absoluto de una diferencia
 Al igual que la suma, el **error absoluto máximo de una resta** está dado por la **suma de los errores absolutos máximos** de los números que intervienen en la operación. 
@@ -235,7 +235,10 @@ $$
 	$\overline{x} = 10,32\:cm - 6,18\:cm = 4,14\:cm$
 	
 	Siendo el valor del **error absoluto máximo de la resta** la **suma de los errores absolutos máximos**: 
-	$\varepsilon_{max} = \varepsilon_{x_1} + \varepsilon_{x_2} = 0,04\:cm + 0,02\:cm = \pm 0,06\:cm$
+
+	$\varepsilon = \varepsilon_{x_1} + \varepsilon_{x_2}$ 
+
+	$\varepsilon = 0,04\:cm + 0,02\:cm = \pm 0,06\:cm$
 	
 	Por último, el valor esperado será: 
 	
@@ -268,9 +271,9 @@ Donde:
 	
 	Luego, el error absoluto máximo: 
 	
-	$\varepsilon_{max} = 10,02\: cm \cdot 0,02\: cm + 5,04\: cm \cdot 0,04\: cm$
+	$\varepsilon = 10,02\: cm \cdot 0,02\: cm + 5,04\: cm \cdot 0,04\: cm$
 	
-	$\varepsilon_{min} = \pm 0,40\: cm$
+	$\varepsilon = \pm 0,40\: cm$
 	
 	Y el valor de la superficie correctamente expresada:
 	
@@ -302,7 +305,7 @@ $$
 	Calculamos el **error absoluto máximo del cociente**: 
 	
 	$$
-	\varepsilon_{max} = \frac { 4 \cdot 508   + 2 \cdot 1206 } {{508}^2} = 0,017221
+	\varepsilon = \frac { 4 \cdot 508   + 2 \cdot 1206 } {{508}^2} = 0,017221
 	$$
 	
 	Entonces, el valor del peso específico (redondeando convenientemente los valores) es:
