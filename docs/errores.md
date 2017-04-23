@@ -141,15 +141,15 @@ $$
 Se trata de otra manera de visualizar el _erorr relativo_ y surge de multiplicar el error relativo por cien: 
 
 $$
-\varepsilon_{r\: %} = \varepsilon_r \cdot 100
+\varepsilon_{r%} = \varepsilon_r \cdot 100
 $$
 
 !!!Ejemplo
 	Tomando el valor del _error relativo_ calculado, tenemos que: 
 	
-	$\varepsilon_{r\: %} = 0,0058 \cdot 100$
+	$\varepsilon_{r%} = 0,0058 \cdot 100$
 	
-	$\varepsilon_{r\: %}= 0,58\: %$
+	$\varepsilon_{r%}= 0,58\: %$
 
 $$
 \\
