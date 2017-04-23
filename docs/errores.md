@@ -193,11 +193,20 @@ Para comprenderlo mejor, lo ilustraremos con un ejemplo.
 	
 	$x_{min} = 10,28\:cm + 6,16\:cm = 16,44\:cm$ 
 
-	Calculamos el error absoluto: 
+	Calculamos el error absoluto máximo: 
 	
-	$\varepsilon_{max} = \overline{x} - x_{max} = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
+	$\varepsilon_{max} = \overline{x} - x_{max}$
+
 	
-	$\varepsilon_{min} = \overline{x} - x_{min} = 16,50 \: cm - 16,44 \: cm = +0,06 \: cm$
+	$\varepsilon_{max} = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
+
+
+	Y el error absoluto mínimo: 
+	
+	$\varepsilon_{min} = \overline{x} - x_{min}$
+
+
+	$\varepsilon_{min} = 16,50 \: cm - 16,44 \: cm = +0,06 \: cm$
 	
 	Por tanto, el **error absoluto máximo de la suma** será 
 
