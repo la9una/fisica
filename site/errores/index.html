@@ -600,7 +600,7 @@
 <p>En nuestro ejemplo, el valor de la longitud del objeto medido quedará expresada como: </p>
 <span>\[
 10,36 \: mm \pm 0,06 \: mm
-\]</span><p>Este resultado implica que, si bien <span>\(10,36 \: mm\)</span> es el <strong>valor probable</strong>, existen otros <strong>valores posibles</strong> comprendidos entre </p>
+\]</span><p>Este resultado implica que, si bien <span>\(10,36 \: mm\)</span> es el <strong>valor probable</strong>, existen otros <strong>valores posibles</strong> comprendidos entre: </p>
 <p><span>\(10,42 \: mm \: (10,36\: mm + 0,06\: mm)\)</span> </p>
 <p>y </p>
 <p><span>\(10,30 \: mm \: (10,36\: mm - 0,06\: mm)\)</span></p>
@@ -619,19 +619,25 @@
 <h3 id="error-relativo-porcentual">Error relativo porcentual<a class="headerlink" href="#error-relativo-porcentual" title="Permanent link">&para;</a></h3>
 <p>Se trata de otra manera de visualizar el <em>erorr relativo</em> y surge de multiplicar el error relativo por cien: </p>
 <span>\[
-\varepsilon_{r%} = \varepsilon_r \cdot 100
+\varepsilon = \varepsilon_r \cdot 100
 \]</span><div class="admonition ejemplo">
 <p class="admonition-title">Ejemplo</p>
 <p>Tomando el valor del <em>error relativo</em> calculado, tenemos que: </p>
-<p><span>\(\varepsilon_{r%} = 0,0058 \cdot 100\)</span></p>
-<p><span>\(\varepsilon_{r%}= 0,58\: %\)</span></p>
+<p><span>\(\varepsilon = 0,0058 \cdot 100\)</span></p>
+<p><span>\(\varepsilon = 0,58\: %\)</span></p>
 </div>
 <span>\[
 \\
 \]</span><h2 id="propagacion-de-errores">Propagación de errores<a class="headerlink" href="#propagacion-de-errores" title="Permanent link">&para;</a></h2>
-<p>Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos <strong>tipos de mediciones</strong>: 
-1. <strong>Directas</strong>
-2. <strong>Indirectas</strong></p>
+<p>Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos <strong>tipos de mediciones</strong>: </p>
+<ol>
+<li>
+<p><strong>Directas</strong></p>
+</li>
+<li>
+<p><strong>Indirectas</strong></p>
+</li>
+</ol>
 <p>Las <strong>mediciones directas</strong> son aquellas que nos permiten obtener un valor cuando realizamos la lectura del instrumento de medición. Por ejemplo, al medir una longitud con una regla, el peso con una balanza, etc. </p>
 <p>En cambio, las <strong>mediciones indirectas</strong> son aquellas que resultan de diversos tipos de cálculos que involucran las <em>mediciones directas</em>. Por ejemplo, cuando a partir del valor de los lados de una figura geométrica se calcula su perímetro o superficie. En estos casos se debe tener en cuenta los errores de cada medición directa a la hora de realizar los cálculos. Estas cuestiones están contempladas por la llamada <strong>Ley de propagación de errores</strong>. </p>
 <h3 id="error-absoluto-de-una-suma">Error absoluto de una suma<a class="headerlink" href="#error-absoluto-de-una-suma" title="Permanent link">&para;</a></h3>
@@ -651,11 +657,11 @@
 <p>El <strong>valor mínimo posible</strong> (sumando los valores mínimos posibles): </p>
 <p><span>\(x_{min} = 10,28\:cm + 6,16\:cm = 16,44\:cm\)</span> </p>
 <p>Calculamos el error absoluto: </p>
-<p>$\varepsilon^{'} = \overline{x} - x_{max} = 16,50:cm - 16,56:cm = -0,06:cm $</p>
-<p>$\varepsilon^{''} = \overline{x} - x_{min} = 16,50:cm - 16,44:cm = +0,06:cm $</p>
+<p><span>\(\varepsilon_{max} = \overline{x} - x_{max} = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm\)</span></p>
+<p><span>\(\varepsilon_{min} = \overline{x} - x_{min} = 16,50 \: cm - 16,44 \: cm = +0,06 \: cm\)</span></p>
 <p>Por tanto, el <strong>error absoluto máximo de la suma</strong> será </p>
-<p><span>\(\varepsilon= \pm 0,06\:cm\)</span></p>
-<p>Finalmente, <span>\(\overline{x} = 16,50\:cm \pm 0,06\:cm\)</span>, que corrobora la afirmación que dice que <strong>el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos</strong></p>
+<p><span>\(\varepsilon = \pm 0,06\:cm\)</span></p>
+<p>Finalmente, <span>\(\overline{x} = 16,50\:cm \pm 0,06\:cm\)</span>, que corrobora que <strong>el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos</strong></p>
 </div>
 <h3 id="error-absoluto-de-una-diferencia">Error absoluto de una diferencia<a class="headerlink" href="#error-absoluto-de-una-diferencia" title="Permanent link">&para;</a></h3>
 <p>Al igual que la suma, el <strong>error absoluto máximo de una resta</strong> está dado por la <strong>suma de los errores absolutos máximos</strong> de los números que intervienen en la operación. </p>

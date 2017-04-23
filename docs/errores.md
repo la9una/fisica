@@ -112,7 +112,7 @@ $$
 	10,36 \: mm \pm 0,06 \: mm
 	$$
 	
-	Este resultado implica que, si bien $10,36 \: mm$ es el **valor probable**, existen otros **valores posibles** comprendidos entre 
+	Este resultado implica que, si bien $10,36 \: mm$ es el **valor probable**, existen otros **valores posibles** comprendidos entre: 
 
 	$10,42 \: mm \: (10,36\: mm + 0,06\: mm)$ 
 
@@ -141,15 +141,15 @@ $$
 Se trata de otra manera de visualizar el _erorr relativo_ y surge de multiplicar el error relativo por cien: 
 
 $$
-\varepsilon_{r%} = \varepsilon_r \cdot 100
+\varepsilon = \varepsilon_r \cdot 100
 $$
 
 !!!Ejemplo
 	Tomando el valor del _error relativo_ calculado, tenemos que: 
 	
-	$\varepsilon_{r%} = 0,0058 \cdot 100$
+	$\varepsilon = 0,0058 \cdot 100$
 	
-	$\varepsilon_{r%}= 0,58\: %$
+	$\varepsilon = 0,58\: %$
 
 $$
 \\
@@ -157,7 +157,9 @@ $$
 
 ##Propagación de errores
 Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos **tipos de mediciones**: 
+
 1. **Directas**
+
 2. **Indirectas**
 
 Las **mediciones directas** son aquellas que nos permiten obtener un valor cuando realizamos la lectura del instrumento de medición. Por ejemplo, al medir una longitud con una regla, el peso con una balanza, etc. 
@@ -194,15 +196,15 @@ Para comprenderlo mejor, lo ilustraremos con un ejemplo.
 
 	Calculamos el error absoluto: 
 	
-	$\varepsilon^{'} = \overline{x} - x_{max} = 16,50\:cm - 16,56\:cm = -0,06\:cm $
+	$\varepsilon_{max} = \overline{x} - x_{max} = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
 	
-	$\varepsilon^{''} = \overline{x} - x_{min} = 16,50\:cm - 16,44\:cm = +0,06\:cm $
+	$\varepsilon_{min} = \overline{x} - x_{min} = 16,50 \: cm - 16,44 \: cm = +0,06 \: cm$
 	
 	Por tanto, el **error absoluto máximo de la suma** será 
 
-	$\varepsilon= \pm 0,06\:cm$
+	$\varepsilon = \pm 0,06\:cm$
 
-	Finalmente, $\overline{x} = 16,50\:cm \pm 0,06\:cm$, que corrobora la afirmación que dice que **el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos**
+	Finalmente, $\overline{x} = 16,50\:cm \pm 0,06\:cm$, que corrobora que **el error absoluto máximo de una suma, es igual a la suma de los errores absolutos máximos de los sumandos**
 
 ###Error absoluto de una diferencia
 Al igual que la suma, el **error absoluto máximo de una resta** está dado por la **suma de los errores absolutos máximos** de los números que intervienen en la operación. 
