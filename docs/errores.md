@@ -100,6 +100,7 @@ $$
 
 #### Valor aproximado
 Podemos establecer la **aproximación del resultado** tomando el valor absoluto del **error absoluto máximo** asignándole doble signo ($\pm$) y aplicándolo al **valor probable**:
+
 $$
 \overline{x} \pm \varepsilon_{max}
 $$
@@ -111,7 +112,13 @@ $$
 	10,36 \: mm \pm 0,06 \: mm
 	$$
 	
-	Este resultado implica que, si bien $10,36 \: mm$ es el **valor probable**, existen otros **valores posibles** comprendidos entre $10,42 \: mm \: (10,36 + 0,06)$ y $10,30 \: mm \: (10,36 - 0,06)$
+	Este resultado implica que, si bien $10,36 \: mm$ es el **valor probable**, existen otros **valores posibles** comprendidos entre 
+
+	$10,42 \: mm \: (10,36\: mm + 0,06\: mm)$ 
+
+	y 
+
+	$10,30 \: mm \: (10,36\: mm - 0,06\: mm)$
 
 
 **IMPORTANTE**: cuando se realizan _varias mediciones_, el error absoluto se calcula como se explica más arriba. Sin embargo, cuando se realiza _sólo una medición_ el error absoluto está dado por el instrumento de medida, siendo la menor magnitud que éste es capaz de medir. Por ejemplo, si nuestro instrumento de medición fuese una regla de tipo escolar, el error absoluto sería igual a $\varepsilon = \pm \: 0,1 \: cm$ que es la menor magnitud que se puede medir con dicho instrumento. 
