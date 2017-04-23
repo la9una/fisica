@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\n\nNote\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus\n\n\n\n\n\\[\n\\frac{n!}{k!(n-k)!} = \\binom{n}{k}\n\\]\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Bienvenid@s\n\n\nEl presente espacio recopila teor\u00eda y ejercicios de f\u00edsica, para el nivel secundario seg\u00fan el dise\u00f1o curricular para las escuelas secundarias t\u00e9cnicas y/o con orientaci\u00f3n en ciencias naturales de la Rep\u00fablica Argentina. \n\n\nTemas\n\n\n\n\nAp\u00e9ndice matem\u00e1tico\n\n\nDescripci\u00f3n del movimiento\n\n\nCinem\u00e1tica\n\n\nDin\u00e1mica\n\n\nConservaci\u00f3n de la cantidad de movimiento\n\n\n\u00d3ptica\n\n\nTermodin\u00e1mica", 
             "title": "Inicio"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#bienvenids", 
+            "text": "El presente espacio recopila teor\u00eda y ejercicios de f\u00edsica, para el nivel secundario seg\u00fan el dise\u00f1o curricular para las escuelas secundarias t\u00e9cnicas y/o con orientaci\u00f3n en ciencias naturales de la Rep\u00fablica Argentina.", 
+            "title": "Bienvenid@s"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.    Note  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus   \\[\n\\frac{n!}{k!(n-k)!} = \\binom{n}{k}\n\\]", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#temas", 
+            "text": "Ap\u00e9ndice matem\u00e1tico  Descripci\u00f3n del movimiento  Cinem\u00e1tica  Din\u00e1mica  Conservaci\u00f3n de la cantidad de movimiento  \u00d3ptica  Termodin\u00e1mica", 
+            "title": "Temas"
         }, 
         {
             "location": "/errores/", 
