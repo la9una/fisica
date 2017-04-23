@@ -1,5 +1,5 @@
 #Errores experimentales 
-re
+
 En más de una ocasión, nos econtraremos ante la situación de tener que **realizar mediciones** de distinto tipo. Dendiendo de magnitud, al realizar la medición obtenemos un valor determinado, por ejemplo: 0,583 m ó 1,725 gr, etc. Sin embargo, si repitiéramos varias veces el proceso de medición caeríamos en cuenta que no todas las veces obtendremos el mismo valor. Una veces será mayor, otras, menor y en otras se repetirá el obtenido la primera vez. 
 
 **En toda medición se producen siempre errores** que el experimentador debe saber manejar. Los errores pueden clasificarse en:
