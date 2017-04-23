@@ -1,5 +1,5 @@
 #Errores experimentales 
-
+re
 En más de una ocasión, nos econtraremos ante la situación de tener que **realizar mediciones** de distinto tipo. Dendiendo de magnitud, al realizar la medición obtenemos un valor determinado, por ejemplo: 0,583 m ó 1,725 gr, etc. Sin embargo, si repitiéramos varias veces el proceso de medición caeríamos en cuenta que no todas las veces obtendremos el mismo valor. Una veces será mayor, otras, menor y en otras se repetirá el obtenido la primera vez. 
 
 **En toda medición se producen siempre errores** que el experimentador debe saber manejar. Los errores pueden clasificarse en:
@@ -33,7 +33,7 @@ $$
 	
 	$x_5=10,40 mm$ 
 
-	$x_6=10,40 mm$ 
+	$x_6=10,40 mm$
 	
 	$x_7=10,40 mm$ 
 
@@ -140,15 +140,15 @@ $$
 Se trata de otra manera de visualizar el _erorr relativo_ y surge de multiplicar el error relativo por cien: 
 
 $$
-\varepsilon = \varepsilon_r \cdot 100
+\varepsilon_{\%} = \varepsilon_r \cdot 100
 $$
 
 !!!Ejemplo
 	Tomando el valor del _error relativo_ calculado, tenemos que: 
 	
-	$\varepsilon = 0,0058 \cdot 100$
+	$\varepsilon_{\%} = 0,0058 \cdot 100$
 	
-	$\varepsilon = 0,58\: %$
+	$\varepsilon_{\%} = 0,58\: %$
 
 $$
 \\
