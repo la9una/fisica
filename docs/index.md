@@ -1,25 +1,16 @@
-# Welcome to MkDocs
+# Bienvenid@s
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+El presente espacio recopila teoría y ejercicios de física, para el nivel secundario según el diseño curricular para las escuelas secundarias técnicas y/o con orientación en ciencias naturales de la República Argentina. 
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Temas
 
-!!! note
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus
+* [Apéndice matemático](#)
+* [Descripción del movimiento](#)
+* [Cinemática](#)
+* [Dinámica](#)
+* [Conservación de la cantidad de movimiento](#)
+* [Óptica](#)
+* [Termodinámica](#)
 
-$$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-$$
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
