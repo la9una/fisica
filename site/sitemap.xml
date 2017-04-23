@@ -4,9 +4,19 @@
     
     <url>
      <loc>http://www.fisica.rauljesus.com/</loc>
-     <lastmod>2017-04-22</lastmod>
+     <lastmod>2017-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>http://www.fisica.rauljesus.com/errores/</loc>
+     <lastmod>2017-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

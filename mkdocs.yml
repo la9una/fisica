@@ -55,4 +55,6 @@ extra_javascript:
 
 # Páginas
 pages: 
-- Inicio: index.md
+- Inicio: 'index.md'
+- Mediciones: 
+  - Teoría de errores: 'errores.md'
