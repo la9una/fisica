@@ -1,5 +1,4 @@
 #Errores experimentales 
-![Cabecera](img/header_fisica.svg)
 
 En más de una ocasión, nos econtraremos ante la situación de tener que **realizar mediciones** de distinto tipo. Dendiendo de magnitud, al realizar la medición obtenemos un valor determinado, por ejemplo: 0,583 m ó 1,725 gr, etc. Sin embargo, si repitiéramos varias veces el proceso de medición caeríamos en cuenta que no todas las veces obtendremos el mismo valor. Una veces será mayor, otras, menor y en otras se repetirá el obtenido la primera vez. 
 
@@ -273,7 +272,7 @@ Donde:
 Cuando dos mediciones participan de una división, el **error absoluto máximo de un cociente** se calcula multiplicando el error del dividendo por el divisor mas el error del divisor por el dividendo, todo divido por el divisor al cuadrado: 
 
 $$
-Suponiendo \: que \hspace{1cm} R = \frac{x_1}{x_2} \hspace{1cm} entonces, \hspace{1cm} \varepsilon_{max} = \frac { \varepsilon_{x_1} \cdot {x_2}   + \varepsilon_{x_2} \cdot {x_1}  } {{x_2}^2}
+Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \hspace{0.7cm} \varepsilon_{max} = \frac { \varepsilon_{x_1} \cdot {x_2}   + \varepsilon_{x_2} \cdot {x_1}  } {{x_2}^2}
 $$
 
 !!!Ejemplo
