@@ -1,160 +1,3 @@
-#Errores experimentales 
-
-En más de una ocasión, nos econtraremos ante la situación de tener que **realizar mediciones** de distinto tipo. Dendiendo de magnitud, al realizar la medición obtenemos un valor determinado, por ejemplo: 0,583 m ó 1,725 gr, etc. Sin embargo, si repitiéramos varias veces el proceso de medición caeríamos en cuenta que no todas las veces obtendremos el mismo valor. Una veces será mayor, otras, menor y en otras se repetirá el obtenido la primera vez. 
-
-**En toda medición se producen siempre errores** que el experimentador debe saber manejar. Los errores pueden clasificarse en:
-
-1. **Errores sistemáticos**: son los provocados por los defectos en la escala del aparato empleado o manera de construcción del mismo. 
-2. **Errores de apreciación**: son los que se originan por malas lecturas realizadas por el observador. La menor o mayor experiencia que posea el observador en realizar esta tarea, será la mejor o menor calidad de la medición realizada. 
-3. **Errores casuales**: son originados por factores no previsibles como temperatura, presión, movimiento del soporte que sostiene el aparato, fatiga del observador, etc. 
-
-$$
-\\
-$$
-
-## Valor probable
-
-Se trata de la media aritmética (promedio) de los valores obtenidos con las mediciones realizadas. También se conoce como "valor real":  
-
-$$
-\overline{x} = \frac { x_{1} + x_{2} + x_{3} + ... + x_{n}}{n}
-$$
-
-!!! Ejemplo
-	Se desea determinar la longitud de un objeto. Para ello, se realizan 10 mediciones las cuales arrojan los siguientes valores: 
-
-	$x_1=10,40 mm$ 
-
-	$x_2=10,30 mm$ 
-	
-	$x_3=10,30 mm$ 
-
-	$x_4=10,30 mm$ 
-	
-	$x_5=10,40 mm$ 
-
-	$x_6=10,40 mm$
-	
-	$x_7=10,40 mm$ 
-
-	$x_8=10,30 mm$ 
-	
-	$x_9=10,40 mm$
-	
-	$x_{10}=10,40 mm$
-
-	El **valor probable ($\overline{x}$)** se calcula de la siguiente manera: 
-	
-	$$
-	\overline{x} =  \frac{ 10,40 + 10,30 + 10,30 + 10,30 + 10,40 + 10,40 + 10,40 + 10,30 + 10,40 + 10,40 }{10}
-	$$
-
-	Resolviendo: 
-	
-	$$
-	\overline{x} = 10,36 mm
-	$$
-
-
-$$
-\\
-$$
-
-##Cálculo de errores
-
-Toda vez que se efectúa una medición, debemos tener en cuenta la existencia de un _error absoluto_, un _error relativo_ y un _error relativo porcentual_. 
-
-###Error absoluto
-También conocido como _**error residual**_ o _**desviación**_, es la diferencia entre el valor más probable y el de cada una de las mediciones realizadas:  
-
-$$
-\varepsilon = \overline {x} - x_{i}
-$$
-
-!!!Ejemplo
-
-	Tomando los valores del ejemplo anterior, calcularemos el **error absoluto ($\varepsilon$)** para cada medición realizada:
-
-	$\varepsilon_{x_1} = 10,36 - 10,40 = -0,04$ 
-	
-	$\varepsilon_{x_2} = 10,36 - 10,30 = +0,06$
-	
-	$\varepsilon_{x_3} = 10,36 - 10,30 = +0,06$
-	
-	$\varepsilon_{x_4} = 10,36 - 10,30 = +0,06$
-	
-	$\varepsilon_{x_5} = 10,36 - 10,40 = -0,04$
-	
-	$\varepsilon_{x_6} = 10,36 - 10,40 = -0,04$
-	
-	$\varepsilon_{x_7} = 10,36 - 10,40 = -0,04$
-	
-	$\varepsilon_{x_8} = 10,36 - 10,30 = +0,06$
-	
-	$\varepsilon_{x_9} = 10,36 - 10,40 = -0,04$
-	
-	$\varepsilon_{x_{10}} = 10,36 - 10,40 = -0,04$
-	
-	Como dato curioso, la suma de los _errores abosolutos_ debería ser siempre cero.
-
-#### Valor aproximado
-Podemos establecer la **aproximación del resultado** tomando el valor absoluto del **error absoluto máximo** asignándole doble signo ($\pm$) y aplicándolo al **valor probable**:
-
-$$
-\overline{x} \pm \varepsilon_{max}
-$$
-
-!!!Ejemplo
-	En nuestro ejemplo, el valor de la longitud del objeto medido quedará expresada como: 
-	
-	$$
-	10,36 \: mm \pm 0,06 \: mm
-	$$
-	
-	Este resultado implica que, si bien $10,36 \: mm$ es el **valor probable**, existen otros **valores posibles** comprendidos entre: 
-
-	$10,42 \: mm \: (10,36\: mm + 0,06\: mm)$ 
-
-	y 
-
-	$10,30 \: mm \: (10,36\: mm - 0,06\: mm)$
-
-
-**IMPORTANTE**: cuando se realizan _varias mediciones_, el error absoluto se calcula como se explica más arriba. Sin embargo, cuando se realiza _sólo una medición_ el error absoluto está dado por el instrumento de medida, siendo la menor magnitud que éste es capaz de medir. Por ejemplo, si nuestro instrumento de medición fuese una regla de tipo escolar, el error absoluto sería igual a $\varepsilon = \pm \: 0,1 \: cm$ que es la menor magnitud que se puede medir con dicho instrumento. 
-
-###Error relativo
-Es el cociente entre el error absoluto y el valor probable: 
-
-$$
-\varepsilon_r = \frac {| \varepsilon |} {\overline {x}}
-$$
-
-!!!Ejemplo
-	Podemos calcular ahora el **error relativo** tomando el **valor aproximado** obtenido en la sección anterior: 
-
-	$\varepsilon_r = \frac {0,06} {10,36} = 0,0058$
-
-	Es decir que se cometió un error de $0,0058 \: mm$ por unidad del valor medido. 
-
-### Error relativo porcentual
-Se trata de otra manera de visualizar el _erorr relativo_ y surge de multiplicar el error relativo por cien: 
-
-$$
-\varepsilon_{\%} = \varepsilon_r \cdot 100
-$$
-
-!!!Ejemplo
-	Tomando el valor del _error relativo_ calculado, tenemos que: 
-	
-	$\varepsilon_{\%} = 0,0058 \cdot 100$
-	
-	$\varepsilon_{\%} = 0,58\: %$
-
-$$
-\\
-$$
-
-##Propagación de errores
 Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos **tipos de mediciones**: 
 
 1. **Directas**
@@ -196,15 +39,12 @@ Para comprenderlo mejor, lo ilustraremos con un ejemplo.
 	Calculamos el error absoluto máximo: 
 	
 	$\varepsilon = \overline{x} - x_{max}$
-
 	
 	$\varepsilon = 16,50 \: cm - 16,56 \: cm = -0,06 \: cm$
-
 
 	Y el error absoluto mínimo: 
 	
 	$\varepsilon_{min} = \overline{x} - x_{min}$
-
 
 	$\varepsilon_{min} = 16,50 \: cm - 16,44 \: cm = +0,06 \: cm$
 	
@@ -363,13 +203,3 @@ $$
 	$\varepsilon_{r_{cociente}}=0,003317 + 0,003937$
 
 	$\varepsilon_{r_{cociente}}=0,0073$
-
-$$
-\\
-$$
-
-## Bibliografía
-* MIGUEL, C., _Física_, Buenos Aires, Ed. Troquel, 1975. 
-* CASTIGLIONI, R., PERAZZO, O., RELA, A., _Física 1_, Buenos Aires, Ed. Troquel, 1981. 
-
-
