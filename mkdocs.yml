@@ -28,6 +28,8 @@ extra:
 #      link: 'https://github.com/la9una'
     - type: 'twitter'
       link: 'https://twitter.com/la9una'
+    - type: 'globe'
+      link: http://rauljesus.com
 #    - type: 'linkedin'
 #      link: 'https://de.linkedin.com/in/john-doe'
 #    - type: 'facebook'
