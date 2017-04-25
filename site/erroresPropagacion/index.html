@@ -9,7 +9,7 @@
         <meta name="description" content="Introducci&oacute;n a la F&iacute;sica">
       
       
-        <link rel="canonical" href="http://www.fisica.rauljesus.com/errores/">
+        <link rel="canonical" href="http://www.fisica.rauljesus.com/erroresPropagacion/">
       
       
         <meta name="author" content="Raul Jesus Lopez">
@@ -21,7 +21,7 @@
     
     
       
-        <title>Teoría de errores - F&iacute;sica B&aacute;sica</title>
+        <title>Propagación de errores - F&iacute;sica B&aacute;sica</title>
       
     
     
@@ -86,7 +86,7 @@
                 </span>
               
             
-            Teoría de errores
+            Propagación de errores
           
         </span>
       </div>
@@ -224,6 +224,30 @@
           
           
 
+
+  <li class="md-nav__item">
+    <a href="../erroresIntroduccion/" title="Introducción" class="md-nav__link">
+      Introducción
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../erroresTipos/" title="Tipos de error" class="md-nav__link">
+      Tipos de error
+    </a>
+  </li>
+
+        
+          
+          
+          
+
   
 
 
@@ -231,139 +255,61 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
     
-      
-    
     
       <label class="md-nav__link md-nav__link--active" for="toc">
-        Teoría de errores
+        Propagación de errores
       </label>
     
-    <a href="./" title="Teoría de errores" class="md-nav__link md-nav__link--active">
-      Teoría de errores
+    <a href="./" title="Propagación de errores" class="md-nav__link md-nav__link--active">
+      Propagación de errores
     </a>
     
       
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="toc">Tabla de contenidos</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#valor-probable" title="Valor probable" class="md-nav__link">
-    Valor probable
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#calculo-de-errores" title="Cálculo de errores" class="md-nav__link">
-    Cálculo de errores
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#error-absoluto" title="Error absoluto" class="md-nav__link">
-    Error absoluto
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#valor-aproximado" title="Valor aproximado" class="md-nav__link">
-    Valor aproximado
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo" title="Error relativo" class="md-nav__link">
-    Error relativo
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo-porcentual" title="Error relativo porcentual" class="md-nav__link">
-    Error relativo porcentual
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#propagacion-de-errores" title="Propagación de errores" class="md-nav__link">
-    Propagación de errores
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#error-absoluto-de-una-suma" title="Error absoluto de una suma" class="md-nav__link">
     Error absoluto de una suma
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-una-diferencia" title="Error absoluto de una diferencia" class="md-nav__link">
     Error absoluto de una diferencia
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-un-producto" title="Error absoluto de un producto" class="md-nav__link">
     Error absoluto de un producto
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-un-cociente" title="Error absoluto de un cociente" class="md-nav__link">
     Error absoluto de un cociente
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-relativo-de-un-producto" title="Error relativo de un producto" class="md-nav__link">
     Error relativo de un producto
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo-de-un-cociente" title="Error relativo de un cociente" class="md-nav__link">
-    Error relativo de un cociente
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
       
         <li class="md-nav__item">
-  <a href="#bibliografia" title="Bibliografía" class="md-nav__link">
-    Bibliografía
+  <a href="#error-relativo-de-un-cociente" title="Error relativo de un cociente" class="md-nav__link">
+    Error relativo de un cociente
   </a>
   
 </li>
@@ -396,124 +342,48 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="toc">Tabla de contenidos</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#valor-probable" title="Valor probable" class="md-nav__link">
-    Valor probable
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#calculo-de-errores" title="Cálculo de errores" class="md-nav__link">
-    Cálculo de errores
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#error-absoluto" title="Error absoluto" class="md-nav__link">
-    Error absoluto
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#valor-aproximado" title="Valor aproximado" class="md-nav__link">
-    Valor aproximado
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo" title="Error relativo" class="md-nav__link">
-    Error relativo
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo-porcentual" title="Error relativo porcentual" class="md-nav__link">
-    Error relativo porcentual
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#propagacion-de-errores" title="Propagación de errores" class="md-nav__link">
-    Propagación de errores
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#error-absoluto-de-una-suma" title="Error absoluto de una suma" class="md-nav__link">
     Error absoluto de una suma
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-una-diferencia" title="Error absoluto de una diferencia" class="md-nav__link">
     Error absoluto de una diferencia
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-un-producto" title="Error absoluto de un producto" class="md-nav__link">
     Error absoluto de un producto
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-absoluto-de-un-cociente" title="Error absoluto de un cociente" class="md-nav__link">
     Error absoluto de un cociente
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#error-relativo-de-un-producto" title="Error relativo de un producto" class="md-nav__link">
     Error relativo de un producto
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
-  <a href="#error-relativo-de-un-cociente" title="Error relativo de un cociente" class="md-nav__link">
-    Error relativo de un cociente
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
       
         <li class="md-nav__item">
-  <a href="#bibliografia" title="Bibliografía" class="md-nav__link">
-    Bibliografía
+  <a href="#error-relativo-de-un-cociente" title="Error relativo de un cociente" class="md-nav__link">
+    Error relativo de un cociente
   </a>
   
 </li>
@@ -533,102 +403,9 @@
               
                 
                 
-                <h1 id="errores-experimentales">Errores experimentales<a class="headerlink" href="#errores-experimentales" title="Permanent link">&para;</a></h1>
-<p>En más de una ocasión, nos econtraremos ante la situación de tener que <strong>realizar mediciones</strong> de distinto tipo. Dendiendo de magnitud, al realizar la medición obtenemos un valor determinado, por ejemplo: 0,583 m ó 1,725 gr, etc. Sin embargo, si repitiéramos varias veces el proceso de medición caeríamos en cuenta que no todas las veces obtendremos el mismo valor. Una veces será mayor, otras, menor y en otras se repetirá el obtenido la primera vez. </p>
-<p><strong>En toda medición se producen siempre errores</strong> que el experimentador debe saber manejar. Los errores pueden clasificarse en:</p>
-<ol>
-<li><strong>Errores sistemáticos</strong>: son los provocados por los defectos en la escala del aparato empleado o manera de construcción del mismo. </li>
-<li><strong>Errores de apreciación</strong>: son los que se originan por malas lecturas realizadas por el observador. La menor o mayor experiencia que posea el observador en realizar esta tarea, será la mejor o menor calidad de la medición realizada. </li>
-<li><strong>Errores casuales</strong>: son originados por factores no previsibles como temperatura, presión, movimiento del soporte que sostiene el aparato, fatiga del observador, etc. </li>
-</ol>
-<span>\[
-\\
-\]</span><h2 id="valor-probable">Valor probable<a class="headerlink" href="#valor-probable" title="Permanent link">&para;</a></h2>
-<p>Se trata de la media aritmética (promedio) de los valores obtenidos con las mediciones realizadas. También se conoce como "valor real":  </p>
-<span>\[
-\overline{x} = \frac { x_{1} + x_{2} + x_{3} + ... + x_{n}}{n}
-\]</span><div class="admonition ejemplo">
-<p class="admonition-title">Ejemplo</p>
-<p>Se desea determinar la longitud de un objeto. Para ello, se realizan 10 mediciones las cuales arrojan los siguientes valores: </p>
-<p><span>\(x_1=10,40 mm\)</span> </p>
-<p><span>\(x_2=10,30 mm\)</span> </p>
-<p><span>\(x_3=10,30 mm\)</span> </p>
-<p><span>\(x_4=10,30 mm\)</span> </p>
-<p><span>\(x_5=10,40 mm\)</span> </p>
-<p><span>\(x_6=10,40 mm\)</span></p>
-<p><span>\(x_7=10,40 mm\)</span> </p>
-<p><span>\(x_8=10,30 mm\)</span> </p>
-<p><span>\(x_9=10,40 mm\)</span></p>
-<p><span>\(x_{10}=10,40 mm\)</span></p>
-<p>El <strong>valor probable (<span>\(\overline{x}\)</span>)</strong> se calcula de la siguiente manera: </p>
-<span>\[
-\overline{x} =  \frac{ 10,40 + 10,30 + 10,30 + 10,30 + 10,40 + 10,40 + 10,40 + 10,30 + 10,40 + 10,40 }{10}
-\]</span><p>Resolviendo: </p>
-<span>\[
-\overline{x} = 10,36 mm
-\]</span></div>
-<span>\[
-\\
-\]</span><h2 id="calculo-de-errores">Cálculo de errores<a class="headerlink" href="#calculo-de-errores" title="Permanent link">&para;</a></h2>
-<p>Toda vez que se efectúa una medición, debemos tener en cuenta la existencia de un <em>error absoluto</em>, un <em>error relativo</em> y un <em>error relativo porcentual</em>. </p>
-<h3 id="error-absoluto">Error absoluto<a class="headerlink" href="#error-absoluto" title="Permanent link">&para;</a></h3>
-<p>También conocido como <em><strong>error residual</strong></em> o <em><strong>desviación</strong></em>, es la diferencia entre el valor más probable y el de cada una de las mediciones realizadas:  </p>
-<span>\[
-\varepsilon = \overline {x} - x_{i}
-\]</span><div class="admonition ejemplo">
-<p class="admonition-title">Ejemplo</p>
-<p>Tomando los valores del ejemplo anterior, calcularemos el <strong>error absoluto (<span>\(\varepsilon\)</span>)</strong> para cada medición realizada:</p>
-<p><span>\(\varepsilon_{x_1} = 10,36 - 10,40 = -0,04\)</span> </p>
-<p><span>\(\varepsilon_{x_2} = 10,36 - 10,30 = +0,06\)</span></p>
-<p><span>\(\varepsilon_{x_3} = 10,36 - 10,30 = +0,06\)</span></p>
-<p><span>\(\varepsilon_{x_4} = 10,36 - 10,30 = +0,06\)</span></p>
-<p><span>\(\varepsilon_{x_5} = 10,36 - 10,40 = -0,04\)</span></p>
-<p><span>\(\varepsilon_{x_6} = 10,36 - 10,40 = -0,04\)</span></p>
-<p><span>\(\varepsilon_{x_7} = 10,36 - 10,40 = -0,04\)</span></p>
-<p><span>\(\varepsilon_{x_8} = 10,36 - 10,30 = +0,06\)</span></p>
-<p><span>\(\varepsilon_{x_9} = 10,36 - 10,40 = -0,04\)</span></p>
-<p><span>\(\varepsilon_{x_{10}} = 10,36 - 10,40 = -0,04\)</span></p>
-<p>Como dato curioso, la suma de los <em>errores abosolutos</em> debería ser siempre cero.</p>
-</div>
-<h4 id="valor-aproximado">Valor aproximado<a class="headerlink" href="#valor-aproximado" title="Permanent link">&para;</a></h4>
-<p>Podemos establecer la <strong>aproximación del resultado</strong> tomando el valor absoluto del <strong>error absoluto máximo</strong> asignándole doble signo (<span>\(\pm\)</span>) y aplicándolo al <strong>valor probable</strong>:</p>
-<span>\[
-\overline{x} \pm \varepsilon_{max}
-\]</span><div class="admonition ejemplo">
-<p class="admonition-title">Ejemplo</p>
-<p>En nuestro ejemplo, el valor de la longitud del objeto medido quedará expresada como: </p>
-<span>\[
-10,36 \: mm \pm 0,06 \: mm
-\]</span><p>Este resultado implica que, si bien <span>\(10,36 \: mm\)</span> es el <strong>valor probable</strong>, existen otros <strong>valores posibles</strong> comprendidos entre: </p>
-<p><span>\(10,42 \: mm \: (10,36\: mm + 0,06\: mm)\)</span> </p>
-<p>y </p>
-<p><span>\(10,30 \: mm \: (10,36\: mm - 0,06\: mm)\)</span></p>
-</div>
-<p><strong>IMPORTANTE</strong>: cuando se realizan <em>varias mediciones</em>, el error absoluto se calcula como se explica más arriba. Sin embargo, cuando se realiza <em>sólo una medición</em> el error absoluto está dado por el instrumento de medida, siendo la menor magnitud que éste es capaz de medir. Por ejemplo, si nuestro instrumento de medición fuese una regla de tipo escolar, el error absoluto sería igual a <span>\(\varepsilon = \pm \: 0,1 \: cm\)</span> que es la menor magnitud que se puede medir con dicho instrumento. </p>
-<h3 id="error-relativo">Error relativo<a class="headerlink" href="#error-relativo" title="Permanent link">&para;</a></h3>
-<p>Es el cociente entre el error absoluto y el valor probable: </p>
-<span>\[
-\varepsilon_r = \frac {| \varepsilon |} {\overline {x}}
-\]</span><div class="admonition ejemplo">
-<p class="admonition-title">Ejemplo</p>
-<p>Podemos calcular ahora el <strong>error relativo</strong> tomando el <strong>valor aproximado</strong> obtenido en la sección anterior: </p>
-<p><span>\(\varepsilon_r = \frac {0,06} {10,36} = 0,0058\)</span></p>
-<p>Es decir que se cometió un error de <span>\(0,0058 \: mm\)</span> por unidad del valor medido. </p>
-</div>
-<h3 id="error-relativo-porcentual">Error relativo porcentual<a class="headerlink" href="#error-relativo-porcentual" title="Permanent link">&para;</a></h3>
-<p>Se trata de otra manera de visualizar el <em>erorr relativo</em> y surge de multiplicar el error relativo por cien: </p>
-<span>\[
-\varepsilon_{\%} = \varepsilon_r \cdot 100
-\]</span><div class="admonition ejemplo">
-<p class="admonition-title">Ejemplo</p>
-<p>Tomando el valor del <em>error relativo</em> calculado, tenemos que: </p>
-<p><span>\(\varepsilon_{\%} = 0,0058 \cdot 100\)</span></p>
-<p><span>\(\varepsilon_{\%} = 0,58\: %\)</span></p>
-</div>
-<span>\[
-\\
-\]</span><h2 id="propagacion-de-errores">Propagación de errores<a class="headerlink" href="#propagacion-de-errores" title="Permanent link">&para;</a></h2>
-<p>Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos <strong>tipos de mediciones</strong>: </p>
+                  <h1>Propagación de errores</h1>
+                
+                <p>Antes de averiguar en qué consiste la propagación de errores conviene aclarar que existen dos <strong>tipos de mediciones</strong>: </p>
 <ol>
 <li>
 <p><strong>Directas</strong></p>
@@ -755,13 +532,6 @@ Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \h
 <p><span>\(\varepsilon_{r_{cociente}}=0,003317 + 0,003937\)</span></p>
 <p><span>\(\varepsilon_{r_{cociente}}=0,0073\)</span></p>
 </div>
-<span>\[
-\\
-\]</span><h2 id="bibliografia">Bibliografía<a class="headerlink" href="#bibliografia" title="Permanent link">&para;</a></h2>
-<ul>
-<li>MIGUEL, C., <em>Física</em>, Buenos Aires, Ed. Troquel, 1975. </li>
-<li>CASTIGLIONI, R., PERAZZO, O., RELA, A., <em>Física 1</em>, Buenos Aires, Ed. Troquel, 1981. </li>
-</ul>
                 
                   
                 
@@ -780,7 +550,7 @@ Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \h
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Inicio" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../erroresTipos/" title="Tipos de error" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -789,7 +559,7 @@ Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \h
                 <span class="md-footer-nav__direction">
                   Anterior
                 </span>
-                Inicio
+                Tipos de error
               </span>
             </div>
           </a>
