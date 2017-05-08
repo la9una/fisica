@@ -18,8 +18,8 @@ theme_dir: 'themes/material'
 # Opciones
 extra:
   palette:
-    primary: 'pink'
-    accent: 'red'
+    primary: 'green'
+    accent: 'green'
   font:
     text: 'Roboto'
     code: 'PT Mono'
