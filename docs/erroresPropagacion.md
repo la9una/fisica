@@ -124,7 +124,7 @@ Donde:
 Cuando dos mediciones participan de una división, el **error absoluto máximo de un cociente** se calcula multiplicando el error del dividendo por el divisor mas el error del divisor por el dividendo, todo divido por el divisor al cuadrado: 
 
 $$
-Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \hspace{0.7cm} \varepsilon_{max} = \frac { \varepsilon_{x_1} \cdot {x_2}   + \varepsilon_{x_2} \cdot {x_1}  } {{x_2}^2}
+Suponiendo \: que \hspace{0.7cm} R = \frac{x_1}{x_2} \hspace{0.7cm} entonces, \hspace{0.7cm} \varepsilon_{max} = \frac { \varepsilon_{x_1} \cdot {x_2}   + \varepsilon_{x_2} \cdot {x_1}  } {{x_2}^2}}
 $$
 
 !!!Ejemplo
