@@ -53,8 +53,11 @@ markdown_extensions:
       permalink: true
   - footnotes
   - pymdownx.arithmatex
-  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.details
   - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
   - pymdownx.superfences
   - pymdownx.tilde
   - pymdownx.emoji:
