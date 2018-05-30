@@ -9,6 +9,8 @@ El presente espacio recopila teoría y ejercicios de física, según el diseño 
 ## 2^da^ Evaluación - Calificaciones 4A
 A continuación listo las notas obtenidas en el exámen. He decidido no tomar en cuenta el problema de encuentro en la calificación. 
 
+** Tampoco incluiré problemas de encuentro en el recuperatorio**
+
 | Alumno/a           | Calificación |
 | ------------------ | ------------ |
 | Aguirre, Shirel    | 8            |
