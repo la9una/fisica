@@ -2,11 +2,7 @@
 
 El presente espacio recopila teoría y ejercicios de física, según el diseño curricular para las escuelas secundarias técnicas de la provincia de Buenos Aires, Argentina. 
 
-$$\bbox[15px,border:2px solid grey]
-{
-E = m \cdot c^2
-}
-$$
+[Energia]: <> ($$\bbox[15px,border:2px solid grey] {E = m \cdot c^2}$$)
 
 [Emojis]: <> (:airplane: :bulb: :satellite: :earth_americas: :star: :radio: :rocket: :clock3: :triangular_ruler: :musical_note: :blue_car: :computer: :soccer: :apple: :person_running: :fire: :snowflake: :tv: :bus: :closed_book: :pencil2: :iphone: :thermometer: :calendar: :gem: :champagne: :rainbow:)
 
