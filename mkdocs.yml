@@ -74,4 +74,11 @@ extra_javascript:
 # Páginas
 pages: 
 - Inicio: 'index.md'
-
+- Mediciones: 
+    - Introducción: 'mediciones/index.md'
+    - Sistema internacional de unidades: 'mediciones/si.md'
+    - Notación científica: 'mediciones/notacion.md'
+- Cinemática: 
+    - Introducción: 'cinematica/index.md'
+- Dinámica: 
+    - Introducción: 'dinamica/index.md'
