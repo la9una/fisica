@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>http://www.rauljesus.xyz/fisica/</loc>
-     <lastmod>2018-05-30</lastmod>
+     <lastmod>2018-11-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
+    <url>
+     <loc>http://www.rauljesus.xyz/fisica/mediciones/</loc>
+     <lastmod>2018-11-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.rauljesus.xyz/fisica/mediciones/si/</loc>
+     <lastmod>2018-11-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.rauljesus.xyz/fisica/mediciones/notacion/</loc>
+     <lastmod>2018-11-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.rauljesus.xyz/fisica/cinematica/</loc>
+     <lastmod>2018-11-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.rauljesus.xyz/fisica/dinamica/</loc>
+     <lastmod>2018-11-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
