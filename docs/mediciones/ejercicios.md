@@ -1,4 +1,6 @@
 # Herramientas matemáticas  
+
+## Notación científica
 **a) Expresá las siguientes medidas en notación científica:**
 
 1. 5800 m
@@ -14,6 +16,10 @@
 11. 93.000.000 s
 12. 26.400 s
 
+??? done "Respuestas"
+        En breve...
+
+## Conversión de unidades
 **b) Convertí en metros, cada una de las siguientes medidas de longitud:**
 
 1. 1,1 cm
@@ -21,9 +27,12 @@
 3. 2,1 km
 4. 0,123 Mm
 
-**3) Convertí en kilogramos cada una de las siguientes medidas de masa:**
+**c) Convertí en kilogramos cada una de las siguientes medidas de masa:**
 
 1. 147 g
 2. 11 $\mu$g
 3. 7,23 Mg
 4. 478 mg
+
+??? done "Respuestas"
+        En breve...
