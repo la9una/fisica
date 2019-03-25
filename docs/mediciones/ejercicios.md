@@ -36,3 +36,7 @@
 
 ??? done "Respuestas"
         En breve...
+
+**d) Convertí las siguientes medidas en unidades del sistema internacional**
+1. 60 km/h
+2. $32 cm^{2}$
