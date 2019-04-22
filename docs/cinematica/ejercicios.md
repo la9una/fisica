@@ -8,14 +8,16 @@
 3. Un caracol recorre en línea recta una distancia de 10,8 m en 1,5 h. ¿Qué distancia recorrerá en 5 min? 
  
 4. Un móvil viaja en línea recta con una velocidad media de 1200 cm/s durante 9 s, y luego con velocidad media de 480 cm/s durante 7 s, siendo ambas velocidades del mismo sentido:
-a) ¿cuál es el desplazamiento total en el viaje de 16 s?  
-b) ¿cuál es la velocidad media del viaje completo? 
+
+    a) ¿cuál es el desplazamiento total en el viaje de 16 s?  
+    b) ¿cuál es la velocidad media del viaje completo? 
  
 5. Se produce un disparo a 2,04 km de donde se encuentra un policía, ¿cuánto tarda el policía en oírlo si la velocidad del sonido en el aire es de 330 m/s? 
 
-6. La velocidad de sonido es de 330 m/s y la de la luz es de 300000 km/s. Se produce un relámpago a 50 km de un observador.  
-a) ¿Qué recibe primero el observador, la luz o el sonido?  
-b) ¿Con qué diferencia de tiempo los registra? 
+6. La velocidad de sonido es de 330 m/s y la de la luz es de 300000 km/s. Se produce un relámpago a 50 km de un observador. 
+ 
+    a) ¿Qué recibe primero el observador, la luz o el sonido?  
+    b) ¿Con qué diferencia de tiempo los registra? 
  
 7. ¿Cuánto tarda en llegar la luz del Sol a la Tierra?, si la velocidad de la luz es de 300000 km/s y el Sol se encuentra a $1,5x10^{11}$ m de distancia
 
