@@ -77,10 +77,11 @@ nav:
 - Mediciones: 
     - Introducción: 'mediciones/index.md'
     - Equivalencias: 'mediciones/equivalencias.md'
+    - Teoría de errores: 'mediciones/calculoerror.md'
     - Ejercicios: 'mediciones/ejercicios.md'
-#    - Sistema internacional de unidades: 'mediciones/si.md'
+
+    #    - Sistema internacional de unidades: 'mediciones/si.md'
 #    - Notación científica: 'mediciones/notacion.md'
-    - Errores: 'mediciones/calculoerror.md'
 - Cinemática: 
     - Introducción: 'cinematica/index.md'
     - Ejercicios: 'cinematica/ejercicios.md'

@@ -1,21 +1,4 @@
-## Expresión de una medición
-Cada vez que se efectúa una medición, siempre existe la posibilidad de cometer un errores en la misma y de distinta índole. Por tanto, para expresar una medida tomada experimentalmente, debemos tener en cuenta dicho margen de error, puesto que medir es más bien un proceso aproximado que exacto. 
-
-$$
-X = \overline{X} \pm E_a
-$$
-
-Donde:
-
-* $X$ representa el resultado de la medición
-* $\overline{X}$ el valor real
-* $E_a$ la [imprecisión absoluta](#imprecision-absoluta).  
-
-!!! done "Valor real"
-		Se tomará como valor real (que se acerca al valor exacto) la [media aritmética simple](#media-aritmetica-simple) (promedio) de las mediciones realizadas.  
-
-## Errores
-Existen varios tipos de errores. Entre los más comunes podemos distinguir dos grandes grupos:
+Cada vez que se efectúa una medición, siempre existe la posibilidad de cometer errores de distinta índole durante el proceso. Entre los más comunes podemos distinguir dos grandes grupos:
 
 * **Errores sistemáticos**: Son errores relacionados con la forma en la que su utiliza el instrumento de medida. Dentro de estos podemos distinguir otros como el error de calibrado o el error de paralaje.
 
@@ -25,7 +8,42 @@ Existen varios tipos de errores. Entre los más comunes podemos distinguir dos g
 
 * **Errores aleatorios o accidentales**: Se tratan de errores que se producen debido a causas que no se pueden controlar. Para intentar reducir el efecto de este tipo de errores se suele medir varias veces en las mismas condiciones y se considera como valor final más probable la media aritmética de los datos obtenidos.
 
-Dado que todas las medidas están afectadas por un error experimental, en el mundo científico es común hacer constar cada resultado obtenido en una medición junto con la incertidumbre sobre esa medida. La incertidumbre es un valor numérico que se obtiene por medio de dos nuevos conceptos denominados error absoluto y error relativo
+
+Por lo tanto, conviene estudiar cuáles son esos errores, a fin de incluirlos en la expresión de una medición experimental. En el mundo científico es común hacer constar cada resultado obtenido en una **medición** junto con la **incertidumbre** sobre esa medida. La **incertidumbre** es un valor numérico que se obtiene por medio de dos nuevos conceptos denominados [error absoluto](#error-absoluto) y [error relativo](#error-relativo).
+
+
+## Valor real
+Es el valor que más se acerca al valor exacto de una medida y está dado, generalmente, por la [media aritmética](#media-aritmetica) (o promedio) de las mediciones experimentales realizadas. 
+
+Si realizamos sólo **una medición**:
+
+* El **valor** será el medido.
+* La **incertidumbre** estará dada por la [precisión del instrumento de medida](#precision-del-instrumento).
+
+Si realizamos **N mediciones** en las mismas condiciones:
+
+* Tomaremos como **valor** la [media aritmética $\overline{X}$](#media-aritmetica)
+* La **incertidumbre** estará dada por el menor valor entre la [imprecisión absoluta](#imprecision-absoluta) y la [precisión del instrumento de medida](#precision-del-instrumento-de-medida).
+
+Finalmente, para expresar una medida tomada experimentalmente, procederemos del siguiente modo:
+
+$$
+X = \overline{X} \pm Incertidumbre
+$$
+
+Donde:
+
+* $X$ representa el resultado de la medición
+* $\overline{X}$ el valor real
+* Incertidumbre que está dada entre la [$E_a$](#imprecision-absoluta) y la [precisión del instrumento de medida](#precision-del-instrumento).
+
+
+## Precisión del instrumento
+La precisión de un instrumento que empleamos para medir está dada por el valor mínimo que es capaz de medir dicho instrumento. 
+De esta manera, la precisión de una regla milimetrada escolar es de $\pm 1mm$ ya que es el valor más pequeño que se puede medir con dicho instrumento.
+
+![Regla milimetrada](imgMediciones/regla_m.png)
+
 
 ### Error absoluto 
 El error absoluto es un indicador de la imprecisión que tiene una determinada media. 
@@ -34,14 +52,13 @@ $$
 \varepsilon_a = | \overline{X} -  X_i |
 $$
 
-!!! info "Valor real"
-		El valor que se toma como real ($\overline{X}$) surge generalmente a partir de la [media de los valores](#media-aritmetica-simple) obtenidos al realizar un número N de mediciones en las mismas condiciones.
 
+#### Imprecisión absoluta
+La imprecisión absoluta de varias medidas, se halla sumando las cantidades que se desvía cada medida de la media aritmética, tomadas en valor absoluto (sin tener en cuenta el signo) y divididas por el número de ellas. 
 
-!!! done "Sobre el error absoluto"
-		Si realizamos sólo una medición, tomaremos el valor leído $\pm$ la precisión del instrumento de medida.
-
-		Si, en cambio, realizamos N medidas en las mismas condiciones, tomaremos como valor la [media aritmética](#media-aritmetica-simple) o la [media aritmética ponderada](#media-aritmetica-ponderada) $\pm$ el menor valor entre la [imprecisión absoluta](#imprecision-absoluta) y la precisión del instrumento de medida.
+$$
+E_a =  \frac{\sum\limits_{i=1}^{N} |\overline{X} - X_i|}{N} = \frac{\varepsilon_{a_1} + \varepsilon_{a_2} + \varepsilon_{a_3} + \cdots + \varepsilon_{a_N}  }{N}
+$$
 
 ### Error relativo
 El error relativo tiene la misión de servir de indicador de la calidad de una medida. Cuando se realizan una medición se considera que su calidad es mucho mayor cuanto más pequeño es el error relativo que se comete.
@@ -57,14 +74,10 @@ $$
 $$
 		
 
-### Imprecisión absoluta
-La imprecisión absoluta de varias medidas, se halla sumando las cantidades que se desvía cada medida de la media aritmética, tomadas en valor absoluto (sin tener en cuenta el signo) y divididas por el número de ellas. 
+### Media aritmética
+Comunmente conocida como promedio. Puede ser simple o ponderada.
 
-$$
-E_a =  \frac{\sum\limits_{i=1}^{N} |\overline{X} - X_i|}{N} = \frac{\varepsilon_{a_1} + \varepsilon_{a_2} + \varepsilon_{a_3} + \cdots + \varepsilon_{a_N}  }{N}
-$$
-
-### Media aritmética simple
+#### Media aritmética simple
 $$
 \overline{X} = \frac{\sum\limits_{i=1}^{N} X_i}{N} = \frac{X_1 + X_2 + X_3 + \cdots + X_N}{N}
 $$
@@ -72,7 +85,7 @@ $$
 Donde $X_i$ representa el valor de cada medición realizada y $N$ la cantidad de mediciones realizadas. 
 
 
-### Media aritmética ponderada
+#### Media aritmética ponderada
 $$
 \overline{X} = \frac{\sum\limits_{i=1}^{N} X_i \cdot p_i}{N} =  \frac{X_1 \cdot p_1 + X_2 \cdot p_2 + X_3 \cdot p_3 + \cdots + X_N \cdot p_N}{N}
 $$
