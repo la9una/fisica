@@ -1,4 +1,7 @@
-## Cinemática (M.R.U.) 
+# Cinemática
+Problemas de física sobre el movimiento de los cuerpos. 
+
+## Movimiento Rectilíneo Uniforme (M.R.U.)
 
 1. Un coche inicia un viaje de 495 Km. a las ocho y media de la mañana con una velocidad media de 90 Km/h ¿A qué hora llegará a su destino? 
  
@@ -25,8 +28,26 @@
     1. A las 2 de la tarde 
     2. 1200 s; 20 min.
     3. 0,6 m 
-    4. a) 14161 cm; b) 88,5 cm/s 
+    4. a) 14160 cm; b) 885 cm/s 
     5. 6,18 s 
     6. a) La luz; b) 151,51 s
     7. 500 s
 
+## Movimiento Rectilíneo Uniformemente Variado (M.R.U.V.)
+
+1. La velocidad de un auto aumenta desde $2 \frac{m}{s}$ en t = 1 s hasta $16 \frac{m}{s}$ en t = 4,5 s. ¿Cuál es la aceleración media del auto?
+2. Un auto en reversa va cada vez más rápidamente por una calzada de entrada. Definimos la velocidad hacia adelante positiva, y hacia atrá, negativa. La velocidad del auto cambia de $-2 \frac{m}{s}$ hasta $-9 \frac{m}{s}$ en un intervalo de tiempo de 2 s. Calcular su aceleración. 
+3. La velocidad de un auto de carrera aumenta de $4 \frac{m}{s}$ a $36 \frac{m}{s}$ en un período de 4 s. ¿Cuál es su aceleracióm media?
+4. El automóvil anterior frena pasando de $36 \frac{m}{s}$ a $15 \frac{m}{s}$ en 3 s. ¿Cuál es su aceleración media en ese intervalo de tiempo?
+
+
+
+
+
+
+
+??? done "Respuestas"
+    1. $4 \frac{m}{s^2}$
+    2. $-3,5 \frac{m}{s^2}$
+    3. $8 \frac{m}{s^2}$
+    4. $-7 \frac{m}{s^2}$
