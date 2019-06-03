@@ -39,7 +39,12 @@ Problemas de física sobre el movimiento de los cuerpos.
 2. Un auto en reversa va cada vez más rápidamente por una calzada de entrada. Definimos la velocidad hacia adelante positiva, y hacia atrá, negativa. La velocidad del auto cambia de $-2 \frac{m}{s}$ hasta $-9 \frac{m}{s}$ en un intervalo de tiempo de 2 s. Calcular su aceleración. 
 3. La velocidad de un auto de carrera aumenta de $4 \frac{m}{s}$ a $36 \frac{m}{s}$ en un período de 4 s. ¿Cuál es su aceleracióm media?
 4. El automóvil anterior frena pasando de $36 \frac{m}{s}$ a $15 \frac{m}{s}$ en 3 s. ¿Cuál es su aceleración media en ese intervalo de tiempo?
-
+5. ¿Cuál es el desplazamiento de un tren que acelera uniformemente desde $11 \frac{m}{s^2}$ hasta $33 \frac{m}{s^2}$ en un intervalo de $20 s$?
+6. Un auto parte del reposo y acelera uniformemente a $6,1 \frac{m}{s^2}$ durante $7 s$. ¿Qué ditancia recorre el automóvil?
+7. Un avión debe alcanzar una velocidad de $71 \frac{m}{s}$ para despegar. Si la pista tiene $1 km$ de longitud, ¿cuál debe ser la aceleración constante del avión?
+8. El transbordador de un parque de diversiones cae libremente en $1,3 s$ **a.** ¿Cuál es la velocidad al cabo de ese tiempo? **b.** ¿Qué distancia cae?
+9. Una pelota de tenis es lanzada verticalmente hacia arriba con una velocidad inicial de $22 \frac{m}{s}$. Luego es recogida a la misma distancia sobre el piso desde la cual fue lanzada. **a.** ¿Qué altura alcanza la pelota? **b.** ¿Cuánto tiempo permanece en el aire? 
+10. Una nave espacial lejos de cualquier estrella o planeta acelera uniformemente desde $65 \frac{m}{s}$ hasta $162 \frac{m}{s}$ en $10 s$. ¿Qué distancia recorre?
 
 
 
@@ -51,3 +56,9 @@ Problemas de física sobre el movimiento de los cuerpos.
     2. $-3,5 \frac{m}{s^2}$
     3. $8 \frac{m}{s^2}$
     4. $-7 \frac{m}{s^2}$
+    5. $440 m$
+    6. $150 m$
+    7. $2,5 \frac{m}{s^2}$
+    8. a. $-15 \frac{m}{s}$ b. $-11 m$
+    9. a. $25,8 m$ b. $2,3 s$
+    10. $1,14 km$
