@@ -6,3 +6,5 @@
 * [Física 1 - Ed. SM](https://drive.google.com/file/d/11gYW2JINSL_zqwEhQfgLUX32nh7keehO/view?usp=sharing)
 * [Física 2 - Ed. SM](https://drive.google.com/file/d/1UVuil2a1k6h7YScNoi7h3BfJY4mNccHb/view?usp=sharing)
 * [Física 3/4 - Ed. Zig Zag](https://drive.google.com/file/d/189znB5WJ9gnogOg9q9nn_g3NCH_5Pdp2/view?usp=sharing)
+* [Física 1 Hipertexto - Ed. Santillana](https://drive.google.com/file/d/1ukeJbooWxrAm7nN-QNQPFyPp9bFaD6Dx/view?usp=sharing)
+* [Física 2 Hipertexto - Ed. Santillana](https://drive.google.com/file/d/1-4nvwSluElgMHhkH3H1zS99nRG5WTurG/view?usp=sharing)
