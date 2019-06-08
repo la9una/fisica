@@ -87,3 +87,6 @@ nav:
     - Ejercicios: 'cinematica/ejercicios.md'
     #- Dinámica: 
 #    - Introducción: 'dinamica/index.md'
+- Anexos: 
+    - Fórmulas: 'anexos/formulas.md'
+    - Constantes: 'anexos/constantes.md'

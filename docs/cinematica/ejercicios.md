@@ -39,7 +39,7 @@ Problemas de física sobre el movimiento de los cuerpos.
 2. Un auto en reversa va cada vez más rápidamente por una calzada de entrada. Definimos la velocidad hacia adelante positiva, y hacia atrá, negativa. La velocidad del auto cambia de $-2 \frac{m}{s}$ hasta $-9 \frac{m}{s}$ en un intervalo de tiempo de 2 s. Calcular su aceleración. 
 3. La velocidad de un auto de carrera aumenta de $4 \frac{m}{s}$ a $36 \frac{m}{s}$ en un período de 4 s. ¿Cuál es su aceleracióm media?
 4. El automóvil anterior frena pasando de $36 \frac{m}{s}$ a $15 \frac{m}{s}$ en 3 s. ¿Cuál es su aceleración media en ese intervalo de tiempo?
-5. ¿Cuál es el desplazamiento de un tren que acelera uniformemente desde $11 \frac{m}{s^2}$ hasta $33 \frac{m}{s^2}$ en un intervalo de $20 s$?
+5. ¿Cuál es el desplazamiento de un tren que acelera uniformemente desde $11 \frac{m}{s}$ hasta $33 \frac{m}{s}$ en un intervalo de $20 s$?
 6. Un auto parte del reposo y acelera uniformemente a $6,1 \frac{m}{s^2}$ durante $7 s$. ¿Qué ditancia recorre el automóvil?
 7. Un avión debe alcanzar una velocidad de $71 \frac{m}{s}$ para despegar. Si la pista tiene $1 km$ de longitud, ¿cuál debe ser la aceleración constante del avión?
 8. El transbordador de un parque de diversiones cae libremente en $1,3 s$ **a.** ¿Cuál es la velocidad al cabo de ese tiempo? **b.** ¿Qué distancia cae?
