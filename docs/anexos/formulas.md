@@ -1,7 +1,7 @@
-## Fómulas
-Listado de fórmulas físicas empleadas durante el año en curso. 
+Listado de fórmulas y ecuaciones empleadas durante el año en curso. 
 
-### M.R.U.
+### Cinemática
+#### M.R.U.
 
 $$\vec{\Delta r} = \vec{r_f} - \vec{r_i}$$
 
@@ -11,7 +11,7 @@ $$\vec{v_m} = \frac{\vec{r_f} - \vec{r_i}}{t_f - t_i}$$
 
 $$Rapidez = \frac{distancia}{tiempo}$$
 
-### M.R.U.V. 
+#### M.R.U.V. 
 $$\vec{a_m} = \frac{\vec{v_f} - \vec{v_i}}{t_f - t_i}$$
 
 $$\vec{v_f} = \vec{v_i} + \vec{a} \cdot t$$
@@ -30,6 +30,6 @@ $$\vec{F} = m \cdot \vec{a}$$
 
 $$\vec{P} = m \cdot \vec{g}$$
 
-
+$$\vec{F_r} = \mu \cdot \vec{N}$$
 
 
