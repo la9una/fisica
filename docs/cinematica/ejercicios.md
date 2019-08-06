@@ -47,10 +47,6 @@ Problemas de física sobre el movimiento de los cuerpos.
 10. Una nave espacial lejos de cualquier estrella o planeta acelera uniformemente desde $65 \frac{m}{s}$ hasta $162 \frac{m}{s}$ en $10 s$. ¿Qué distancia recorre?
 
 
-
-
-
-
 ??? done "Respuestas"
     1. $4 \frac{m}{s^2}$
     2. $-3,5 \frac{m}{s^2}$
@@ -62,3 +58,10 @@ Problemas de física sobre el movimiento de los cuerpos.
     8. a. $-15 \frac{m}{s}$ b. $-11 m$
     9. a. $25,8 m$ b. $2,3 s$
     10. $1,14 km$
+
+
+## Trabajo práctico
+Experiencia de laboratorio sobre cinemática
+
+* [Consignas](https://docs.google.com/document/d/1bhKXfhqH3GVIoUsy-oxu5lAzzzum0zH8GfhnaJQC2sQ/edit?usp=sharing)
+* [Presentación del trabajo](https://docs.google.com/document/d/145LuU3LNG54RJcxxP84PHlXwl2CGU0jfRAykhdyE2mY/edit?usp=sharing)
