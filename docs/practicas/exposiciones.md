@@ -23,3 +23,15 @@ Energía Eléctrica: campo y potencial electrostáticos. Dieléctricos. Corrient
 ## Fluidos
 Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hidrostática. Experiencia de Torricelli. Principio de Pascal. Principio de Arquímedes.
 
+
+
+# 4A
+
+## Orden de exposición
+* Grupo 3 - Electricidad y magnetismo
+* Grupo 5 - Energía (introducción)
+* Grupo 2 - Ondas (Introducción)
+* Grupo 1 - Fluidos
+* Grupo 6 - Ondas - Sonido
+* Grupo 4 - Ondas - Luz
+
