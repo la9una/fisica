@@ -1,8 +1,5 @@
 # Temas para la exposición 
 
-http://recursostic.educacion.es/secundaria/edad/4esofisicaquimica/index.htm
-
-
 ## Energía
 Tipos de energías (térmica, eléctrica, radiante, química, nuclear). Energías renovables y no renovables. Transformaciones de la energía. Principio de conservación. Degradación de la energía. Energía térmica y calor. Equilibrio térmico. Transmisión del calor. Escalas termométricas. Calor específico. Cambios de estado. Energía Potencial electrica, elastica y gravitatoria. Fuerzas conservativas y no conservativas. Concepto de Trabajo. Trabajo y energía. Potencia.
 
@@ -24,10 +21,7 @@ Energía Eléctrica: campo y potencial electrostáticos. Dieléctricos. Corrient
 Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hidrostática. Experiencia de Torricelli. Principio de Pascal. Principio de Arquímedes.
 
 
-
-# 4A
-
-## Orden de exposición
+## Orden de exposición (4A) - 20/08/19
 * Grupo 3 - Electricidad y magnetismo
 * Grupo 5 - Energía (introducción)
 * Grupo 2 - Ondas (Introducción)
@@ -35,3 +29,6 @@ Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hi
 * Grupo 6 - Ondas - Sonido
 * Grupo 4 - Ondas - Luz
 
+## Orden de exposición (4B) - 19/08/19
+
+{Por definir}
