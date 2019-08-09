@@ -91,3 +91,7 @@ nav:
     - Fórmulas: 'anexos/formulas.md'
     - Constantes: 'anexos/constantes.md'
     - Bibliografía: 'anexos/bibliografia.md'
+
+- Prácticas: 
+    - Laboratorio: 'practicas/laboratorio.md'
+    - Exposiciones: 'practicas/exposiciones.md'
