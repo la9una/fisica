@@ -15,13 +15,19 @@ Sonido: ¿Como se produce? Tipo de onda. Acústica. Mecanismo de propagación y 
 La luz: tipo de onda, naturaleza dual (modelo corpuscuplar y modelo ondulatorio). Espectro electromagnético. Propagación de la luz, ondas y rayos. Reflexión. Refracción. Difracción. Polarización. Espejos concavos y convexos. Lentes convergentes y divergentes.
 
 ## Electricidad y Magnetismo
-Energía Eléctrica: campo y potencial electrostáticos. Dieléctricos. Corriente Eléctrica. Interacción Magnética. Inducción. CampoMagnético. Corrientes eléctricas variables. Circuitos eléctricos. 
+Energía Eléctrica: campo y potencial eléctrico. Dieléctricos. Corriente Eléctrica. Interacción Magnética. Inducción. Campo Magnético. Corrientes eléctricas variables. Circuitos eléctricos. 
 
 ## Fluidos
 Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hidrostática. Experiencia de Torricelli. Principio de Pascal. Principio de Arquímedes.
 
 
-## Orden de exposición (4A) - 20/08/19
+
+
+## Exposición (20 minutos)
+
+### Orden de exposición (4A)
+
+#### 20/08/19
 * Grupo 3 - Electricidad y magnetismo
 * Grupo 5 - Energía (introducción)
 * Grupo 2 - Ondas (Introducción)
@@ -29,6 +35,17 @@ Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hi
 * Grupo 6 - Ondas - Sonido
 * Grupo 4 - Ondas - Luz
 
-## Orden de exposición (4B) - 19/08/19
+### Orden de exposición (4B) 
 
-{Por definir}
+#### 20/08/19
+* Grupo 3 - Fluidos
+* Grupo 2 - Electricidad y electromagnetismo
+* Grupo 6 - Ondas (introducción)
+
+
+### 26/08/19
+* Grupo 1 - Ondas - Luz
+* Grupo 4 - Energía (introducción)
+* Grupo 5 - Ondas - Sonido
+
+
