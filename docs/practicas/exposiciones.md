@@ -23,29 +23,21 @@ Fluidos: Presion.Presión atmosférica. Densidad. Principio fundamental de la hi
 
 
 
-## Exposición (20 minutos)
+## Exposición (15 minutos)
 
-### Orden de exposición (4A)
-
-#### 20/08/19
+### Orden de exposición 4A (20/08/19)
 * Grupo 3 - Electricidad y magnetismo
-* Grupo 5 - Energía (introducción)
+* Grupo 5 - Energía (Introducción)
 * Grupo 2 - Ondas (Introducción)
 * Grupo 1 - Fluidos
 * Grupo 6 - Ondas - Sonido
 * Grupo 4 - Ondas - Luz
 
-### Orden de exposición (4B) 
-
-#### 20/08/19
+### Orden de exposición 4B (26/08/19)
 * Grupo 3 - Fluidos
 * Grupo 2 - Electricidad y electromagnetismo
-* Grupo 6 - Ondas (introducción)
-
-
-### 26/08/19
+* Grupo 6 - Ondas (Introducción)
 * Grupo 1 - Ondas - Luz
-* Grupo 4 - Energía (introducción)
+* Grupo 4 - Energía (Introducción)
 * Grupo 5 - Ondas - Sonido
-
 
