@@ -32,4 +32,12 @@ $$\vec{P} = m \cdot \vec{g}$$
 
 $$\vec{F_r} = \mu \cdot \vec{N}$$
 
+## Energía
+
+### Térmica
+
+$$Q = m \cdot C_e \cdot \Delta T $$
+
+$$T_f = \frac{m_A \cdot C_eA \cdot T_iA + m_B \cdot C_eB \cdot T_iB}{m_A \cdot C_eA + m_B \cdot C_eB  } $$
+
 
