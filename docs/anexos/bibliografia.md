@@ -11,6 +11,11 @@
 
 
 # Sitios web
+* [Apps de Física](https://www.walter-fendt.de/html5/phes/index.html)
+* [Educa Plus](http://www.educaplus.org/games/fisica)
+* [Física en la escuela](https://www.vascak.cz/physicsanimations.php?l=es)
+* [Física y Química para Secundaria y Bachillerato](http://www.fisica-quimica-secundaria-bachillerato.com/)
 * [Recursos TIC](http://recursostic.educacion.es/secundaria/edad/4esofisicaquimica/index.htm)
-* [Simulaciones PhET](https://phet.colorado.edu/es/simulations/category/physics)
 * [Simulaciones eduMedia](https://www.edumedia-sciences.com/es/node/61-fisica)
+* [Simulaciones de Física con WebGL](http://isingspinwebgl.com/)
+* [Simulaciones PhET](https://phet.colorado.edu/es/simulations/category/physics)
