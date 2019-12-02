@@ -13,3 +13,4 @@
 # Sitios web
 * [Recursos TIC](http://recursostic.educacion.es/secundaria/edad/4esofisicaquimica/index.htm)
 * [Simulaciones PhET](https://phet.colorado.edu/es/simulations/category/physics)
+* [Simulaciones eduMedia](https://www.edumedia-sciences.com/es/node/61-fisica)
