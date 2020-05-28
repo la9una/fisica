@@ -17,8 +17,8 @@ theme:
     logo: fontawesome/solid/graduation-cap
     repo: fontawesome/brands/git-alt
   palette:
-    primary: 'deep orange'
-    accent: 'deep orange'
+    primary: 'light blue'
+    accent: 'light blue'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -79,37 +79,36 @@ plugins:
 # Páginas
 nav: 
 - Inicio: 'index.md'
-- Mediciones: 
-    - Introducción: 'mediciones/index.md'
-    - Equivalencias: 'mediciones/equivalencias.md'
-    - Teoría de errores: 'mediciones/calculoerror.md'
-    - Ejercicios: 'mediciones/ejercicios.md'
+#- Mediciones: 
+#    - Introducción: 'mediciones/index.md'
+#    - Equivalencias: 'mediciones/equivalencias.md'
+#    - Teoría de errores: 'mediciones/calculoerror.md'
+#    - Ejercicios: 'mediciones/ejercicios.md'
 
     #    - Sistema internacional de unidades: 'mediciones/si.md'
 #    - Notación científica: 'mediciones/notacion.md'
-- Cinemática: 
-    - Introducción: 'cinematica/index.md'
-    - M.R.U.: 'cinematica/mru.md'
-    - M.R.U.V.: 'cinematica/mruv.md'
-    - Ejercicios: 'cinematica/ejercicios.md'
-- Dinámica: 
-    - Introducción: 'dinamica/index.md'
-- Trabajo y energía: 
-    - Introducción: 'energia/index.md'
-    - Energía Mecánica: 
-          - Conservación: 'energia/mecanica.md'
-          - Energía Cinética: 'energia/cinetica.md'
-          - Energía Potencial: 'energia/potencial.md'
-    - Trabajo: 'energia/trabajo.md'
-    - Energía Térmica: 'energia/termica.md'
-    - Ejercicios: 'energia/ejercicios.md'
-
+#- Cinemática: 
+#    - Introducción: 'cinematica/index.md'
+#    - M.R.U.: 'cinematica/mru.md'
+##    - M.R.U.V.: 'cinematica/mruv.md'
+#    - Ejercicios: 'cinematica/ejercicios.md'
+#- Dinámica: 
+#    - Introducción: 'dinamica/index.md'
+#- Trabajo y energía: 
+#    - Introducción: 'energia/index.md'
+#    - Energía Mecánica: 
+#          - Conservación: 'energia/mecanica.md'
+#          - Energía Cinética: 'energia/cinetica.md'
+#          - Energía Potencial: 'energia/potencial.md'
+#    - Trabajo: 'energia/trabajo.md'
+#    - Energía Térmica: 'energia/termica.md'
+#    - Ejercicios: 'energia/ejercicios.md'
 - Anexos: 
     - Fórmulas: 'anexos/formulas.md'
     - Constantes: 'anexos/constantes.md'
     - Bibliografía: 'anexos/bibliografia.md'
     - Programas: 'anexos/programas.md'
 
-- Prácticas: 
-    - Laboratorio: 'practicas/laboratorio.md'
-    - Exposiciones: 'practicas/exposiciones.md'
+#- Prácticas: 
+#    - Laboratorio: 'practicas/laboratorio.md'
+#    - Exposiciones: 'practicas/exposiciones.md'
