@@ -8,64 +8,69 @@ site_url: http://www.rauljesus.xyz/fisica
 repo_name: 'Ver en GitHub'
 repo_url: 'https://github.com/la9una/fisica'
 
-# Copyright
-copyright: '2018 &nbsp; Raul Jesus Lopez'
-
 # Tema
 theme:
   name: 'material'
   language: 'es'
+  icon:
+ #   logo: material/library
+    logo: fontawesome/solid/graduation-cap
+    repo: fontawesome/brands/git-alt
   palette:
-    primary: 'deep purple'
-    accent: 'deep purple'
+    primary: 'deep orange'
+    accent: 'deep orange'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-#  feature:
-#    tabs: true
+  feature:
+    tabs: true
 
 # Extra
 extra:
-  search:
-    language: 'es, en'
   disqus: 'rauljesus-xyz'
+  manifest: manifest.webmanifest
   social:
-    - type: 'twitter'
+    - icon: fontawesome/brands/twitter
       link: 'https://twitter.com/la9una'
-    - type: 'facebook'
+    - icon: fontawesome/brands/facebook-f
       link: 'https://www.facebook.com/rauljesuslopez'
-    - type: 'github'
+    - icon: fontawesome/brands/github
       link: 'https://github.com/la9una'
-#    - type: 'linkedin'
-#      link: 'https://de.linkedin.com/in/john-doe'
-
-## CSS Adicional
-extra_css:
-  - 'stylesheets/extra.css'
 
 # Extensiones
 markdown_extensions:
   - admonition
-#  - codehilite(guess_lang=false,linenums=true)
-#  - codehilite(guess_lang=false)
   - codehilite
   - toc:
       permalink: true
   - footnotes
   - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.caret
+  - pymdownx.critic
   - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.superfences
-  - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
 
 extra_javascript:
-  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML'
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
 
+
+plugins:
+  - search # necessary for search to work
+  - git-revision-date-localized:
+      type: date
 
 ######################################################################
 ### DOCUMENTACIÓN ####################################################
