@@ -2,7 +2,7 @@
 
 El presente espacio recopila teoría y ejercicios de física, según el diseño curricular para las escuelas secundarias técnicas de la provincia de Buenos Aires, Argentina. 
 
-![Drag Racing](physics.jpg)
+![Physics image from safiramericanschool.com](physics.jpg)
 
 _Imagen: safiramericanschool.com_
 
