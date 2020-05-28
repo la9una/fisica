@@ -15,8 +15,6 @@ _Imagen: safiramericanschool.com_
 :material-email:&nbsp;&nbsp;rjlopez:material-at:itel.edu.ar<br />
 :material-email:&nbsp;&nbsp;profesor:material-at:rauljesus.xyz<br />
 
-:fontawesome-solid-graduation-cap:
-
 [Energia]: <> ($$\bbox[25px,border:2px solid grey] {E = m \cdot c^2}$$)
 [Emojis]: <> (:airplane: :bulb: :satellite: :earth_americas: :star: :radio: :rocket: :clock3: :triangular_ruler: :musical_note: :blue_car: :computer: :soccer: :apple: :person_running: :fire: :snowflake: :tv: :bus: :closed_book: :pencil2: :iphone: :thermometer: :calendar: :gem: :champagne: :rainbow:)
 [Comentarios]: <> (https://stackoverflow.com/questions/4823468/comments-in-markdown)
