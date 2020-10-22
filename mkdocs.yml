@@ -87,11 +87,11 @@ nav:
 
     #    - Sistema internacional de unidades: 'mediciones/si.md'
 #    - Notación científica: 'mediciones/notacion.md'
-#- Cinemática: 
+- Cinemática: 
 #    - Introducción: 'cinematica/index.md'
 #    - M.R.U.: 'cinematica/mru.md'
 ##    - M.R.U.V.: 'cinematica/mruv.md'
-#    - Ejercicios: 'cinematica/ejercicios.md'
+    - Ejercicios: 'cinematica/ejercicios.md'
 #- Dinámica: 
 #    - Introducción: 'dinamica/index.md'
 #- Trabajo y energía: 
